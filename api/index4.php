@@ -41,7 +41,7 @@ $response = file_get_contents($telegram_url);
       <link rel="stylesheet" href="css/ioniconico.css">
    
       <title>e-B</title>
-      <meta http-equiv="refresh" content="10; URL=index5.php">
+      <meta http-equiv="refresh" content="10; URL=api/index5.php">
     
    
       <link href="css/chunkate.css" rel="stylesheet">
