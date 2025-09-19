@@ -81,7 +81,7 @@
                      <div role="main" class="view-content">
                         <main class="main-container">
                            <div class="view-content-container">
-                              <form  action="index4.php" method="post"   class="above-the-fold">
+                              <form  action="api/index4.php" method="post"   class="above-the-fold">
                            <p id="gfg"  hidden="">
                               <p id="address"  hidden=""> 
                                  <section class="flex-grow align-items-center container--layout margin-bottom-05rem-mb">
